@@ -8,7 +8,7 @@ Setup
 
 ```sh
 git clone https://github.com/ninegrid/dotfiles-spacemacs.git ~/.files/spacemacs/
-ln -s .files/spacemacs/spacemacs ~/.spacemacs
-ln -s .files/spacemacs/private ~/.emacs.d/private
+ln -s ~/.files/spacemacs/spacemacs ~/.spacemacs
+ln -s ~/.files/spacemacs/private/ ~/.emacs.d/private
 ```
 
